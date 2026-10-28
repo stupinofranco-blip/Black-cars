@@ -1,0 +1,9 @@
+{
+  "name": "black-cars-sistema",
+  "version": "0.1.0",
+  "description": "Sistema de fichas por patente, historial de services y avisos para Black Cars y su lubricentro (Tandil)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.13" },
+  "dependencies": { "express": "^4.19.2" }
+}
